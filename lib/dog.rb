@@ -9,5 +9,3 @@ class Dog
   end
 
 end
-
-class Clear_All

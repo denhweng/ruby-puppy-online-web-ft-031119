@@ -3,7 +3,7 @@ class Dog
   
   attr_accessor :name 
   
-  def initialie 
+  def initialize 
   end 
   
 
